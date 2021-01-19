@@ -155,7 +155,6 @@ sb.lineInt_HNO3.systematic            = 0.1
 sb.lineInt_O3.systematic              = 0.03 
 sb.lineInt_N2O.systematic             = 0.02     
 sb.lineInt_HCl.systematic             = 0.05
-sb.lineInt_O3.systematic              = 0.05     
 sb.lineInt_HF.systematic              = 0.05     
 sb.lineInt_OCS.systematic             = 0.02
 sb.lineInt_NO.systematic              = 0.05     
